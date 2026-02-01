@@ -16,12 +16,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SocketSubsystemSteamIP",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamSockets",
-			"Enabled": true
+			"Name": "MultiplayerSessions",
+			"Enabled": false
 		}
 	]
 }
